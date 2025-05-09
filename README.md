@@ -21,3 +21,7 @@ This project is a simple *rule-based chatbot* developed as part of the *CODSOFT 
    ```bash
    git clone https://github.com/thelikhitha-tech/CODSOFT.git
    cd CODSOFT
+
+## Sample Output
+
+![Chatbot Output](Screenshot%202025-05-09%20110439.png)
